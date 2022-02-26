@@ -587,7 +587,7 @@ color:#777
   position: relative;
   transition: 0.3s;
   box-shadow: 0px 10px 20px 0px grey;
-  border-radius: 10px;
+  border-radius: 5px;
  
   }
   .services .cont .box i{color: #00000052}
@@ -648,7 +648,7 @@ color:#777
 
   }
   .services .cont .box:hover footer::after{
-    width: 99%;
+    width: 100%;
   }
   .services .cont .box footer a{
     text-decoration: none;
